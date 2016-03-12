@@ -1,0 +1,2 @@
+# WendysShop
+Wendys Ostershop
